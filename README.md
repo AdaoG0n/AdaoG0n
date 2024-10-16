@@ -1,4 +1,4 @@
-![WortenResolve](https://img.shields.io/badge/WortenResolve-blue)
+![WortenResolve](https://img.shields.io/badge/WortenResolve-darkblue)
 # 🌐 Socials:
 <!--[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/adao_gonz)--> 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/adao__goncalves) [![X](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ad%C3%A3o-gon%C3%A7alves-639b05331?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app&original_referer=) 
