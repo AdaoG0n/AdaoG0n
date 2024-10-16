@@ -24,7 +24,7 @@
 ---
 
 ![](https://github-readme-stats.vercel.app/api?username=AdaoG0n&theme=dark_blue&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=AdaoG0n&theme=ocean_dark&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=AdaoG0n&theme=dark_blue&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdaoG0n&theme=dark_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
