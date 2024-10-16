@@ -1,4 +1,4 @@
-![WortenResolve](https://img.shields.io/badge/WortenResolve-darkblue)
+![Wortenresolve](https://img.shields.io/badge/WortenResolve-darkblue)
 
 [![adamarqu's 42 stats](https://badge.mediaplus.ma/darkblue/adamarqu)](https://github.com/oakoudad/badge42)
 
