@@ -16,6 +16,7 @@
 ![Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
+---
 
 # 📊
 ![](https://github-readme-stats.vercel.app/api?username=AdaoG0n&theme=ocean_dark&hide_border=false&include_all_commits=true&count_private=true)
