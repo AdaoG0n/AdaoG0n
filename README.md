@@ -23,9 +23,9 @@
 
 ---
 
-![](https://github-readme-stats.vercel.app/api?username=AdaoG0n&theme=city_lights&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=AdaoG0n&theme=city_lights&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdaoG0n&theme=city_lights&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=AdaoG0n&theme=city_lights&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=AdaoG0n&theme=city_lights&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdaoG0n&theme=city_lights&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 ![](https://visitcount.itsvg.in/api?id=AdaoG0n&icon=7&color=1)
