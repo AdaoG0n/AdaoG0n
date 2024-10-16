@@ -19,6 +19,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdaoG0n&theme=ocean_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AdaoG0n&icon=7&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=AdaoG0n&icon=7&color=1)]
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
