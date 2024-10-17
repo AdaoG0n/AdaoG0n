@@ -3,8 +3,8 @@
 
 ---
 
-![adamarqu's 42 stats](https://badge.mediaplus.ma/darkblue/adamarqu)
-
+<!--![adamarqu's 42 stats](https://badge.mediaplus.ma/darkblue/adamarqu)
+-->
 ---
 
 <!--[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/adao_gonz)--> 
