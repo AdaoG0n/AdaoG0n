@@ -11,7 +11,7 @@
 [![Linkedin](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/ad%C3%A3o-gon%C3%A7alves-639b05331?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app&original_referer=)
 
 ---
-<p align="left">
+<p align="right">
   <a href="#" style="pointer-events: none;">
     <img src="https://skillicons.dev/icons?i=c,powershell,vim,neovim,ubuntu,windows,git,github" />
   </a>
