@@ -1,7 +1,7 @@
 <div align="left">
 
 ---
-<img align="left" src="./Adaog0n.png" width="500"/>
+<img align="left" src="./readmenb.png" width="500"/>
 
 ![Wortenresolve](https://img.shields.io/badge/WortenResolve-darkblue) 
 <a href='https://profile.intra.42.fr/users/adamarqu' target="_blank"><img alt='42' src='https://img.shields.io/badge/Porto-100000?style=flat-square&logo=42&logoColor=white&labelColor=000000&color=000000'/></a> 
@@ -26,13 +26,13 @@
 -->
 
 ---
-<!-- ![](https://github-readme-stats.vercel.app/api?username=AdaoG0n&theme=city_lights&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=AdaoG0n&theme=city_lights&hide_border=true)<br/> -->
+<!-- 
+![](https://github-readme-stats.vercel.app/api?username=AdaoG0n&theme=city_lights&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=AdaoG0n&theme=city_lights&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdaoG0n&theme=city_lights&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/>
-
-
-
----
-![](https://visitcount.itsvg.in/api?id=AdaoG0n&icon=7&color=1)
-
+-->
+<div align="center">
+  
+  ![](https://visitcount.itsvg.in/api?id=AdaoG0n&icon=7&color=1)
+</div>
 </div>
