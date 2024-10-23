@@ -33,6 +33,6 @@
 -->
 <div align="center">
   
-  ![](https://visitcount.itsvg.in/api?id=AdaoG0n&icon=7&color=1)
+ ![](https://visitcount.itsvg.in/api?id=AdaoG0n&label=Profile%20Views&color=12&icon=3&pretty=true)
 </div>
 </div>
