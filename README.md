@@ -1,7 +1,7 @@
 <div align="left">
 
 ---
-<img align="left" src="./readmenb.png" width="600"/>
+<img align="left" src="./readmenb.png" width="500"/>
 
 ![Wortenresolve](https://img.shields.io/badge/WortenResolve-darkblue) 
 <a href='https://profile.intra.42.fr/users/adamarqu' target="_blank"><img alt='42' src='https://img.shields.io/badge/Porto-100000?style=flat-square&logo=42&logoColor=white&labelColor=000000&color=000000'/></a> 
