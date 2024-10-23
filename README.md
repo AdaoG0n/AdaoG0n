@@ -13,7 +13,7 @@
 ---
 <p align="right">
   <a href="#" style="pointer-events: none;">
-    <img src="https://skillicons.dev/icons?i=c,powershell,vim,neovim,ubuntu,windows,git,github" />
+    <img src="https://skillicons.dev/icons?i=c,powershell,vim,neovim,ubuntu,windows,git,github, " />
   </a>
 </p> 
 <!--
