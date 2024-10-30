@@ -54,12 +54,14 @@ Always open to collaboration and excited to contribute to innovative projects!
 ![markdown](https://custom-icon-badges.demolab.com/badge/-markdown-green.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![bubble](https://custom-icon-badges.demolab.com/badge/-bubble.io-green.svg?style=for-the-badge&logo=bubbleoffice&logoColor=white)
 ![xano](https://custom-icon-badges.demolab.com/badge/-xano-greenyellow.svg?style=for-the-badge&logo=xano&logoColor=white)
-![airtable](https://custom-icon-badges.demolab.com/badge/-airtable-greenyellow.svg?style=for-the-badge&logo=airtable&logoColor=white)<br/>
+![airtable](https://custom-icon-badges.demolab.com/badge/-airtable-greenyellow.svg?style=for-the-badge&logo=airtable&logoColor=white)
 ![mysql](https://custom-icon-badges.demolab.com/badge/-mysql-yellow.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![php](https://custom-icon-badges.demolab.com/badge/-php-yellow.svg?style=for-the-badge&logo=php&logoColor=white)
-![html](https://custom-icon-badges.demolab.com/badge/-html-yellow.svg?style=for-the-badge&logo=html&logoColor=white)
+![html](https://custom-icon-badges.demolab.com/badge/-html-yellow.svg?style=for-the-badge&logo=html5&logoColor=white)
+![photoshop](https://custom-icon-badges.demolab.com/badge/-photoshop-yellow.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![javascript](https://custom-icon-badges.demolab.com/badge/-javascript-orange.svg?style=for-the-badge&logo=javascript&logoColor=white)
 ![css](https://custom-icon-badges.demolab.com/badge/-css-orange.svg?style=for-the-badge&logo=css&logoColor=white)
+![lumion](https://custom-icon-badges.demolab.com/badge/-lumion-orange.svg?style=for-the-badge&logo=lumion&logoColor=white)
 ![salesforce](https://custom-icon-badges.demolab.com/badge/-salesforce-orangered.svg?style=for-the-badge&logo=salesforce&logoColor=white)
 ###### From green to red according to experience
 
