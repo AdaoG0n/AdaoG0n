@@ -7,9 +7,7 @@
 Tech enthusiast and problem-solver with a passion for learning. 
 <br/>
 
-![b](https://custom-icon-badges.demolab.com/badge/--cyan.svg?style=for-the-badge&logoColor=white)
-
-I'm a 34-year-old electronics repair technician at Worten Resolve, specializing in a wide range of devices from smartphones to home appliances.
+![b](https://custom-icon-badges.demolab.com/badge/--cyan.svg?style=for-the-badge&logoColor=white) I'm a 34-year-old electronics repair technician at Worten Resolve, specializing in a wide range of devices from smartphones to home appliances.
 
 My curiosity drives me to constantly explore new technologies and software. I enjoy hands-on work and am always eager to take on new challenges. Efficiency is important to me, and I've developed methods to manage time effectively.
 
