@@ -1,6 +1,6 @@
+
 <div align="left">
  
-  
   
 # <div align="right">[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/adao__goncalves) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ad%C3%A3o-gon%C3%A7alves-639b05331?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app&original_referer=) ![Wortenresolve](https://custom-icon-badges.demolab.com/badge/-wortenresolve-darkblue.svg?style=flat-square&logo=wor&logoColor=white) <a href='https://profile.intra.42.fr/users/adamarqu' target="_blank"><img alt='42' src='https://img.shields.io/badge/Porto-100000?style=flat-square&logo=42&logoColor=white&labelColor=000000&color=000000'/></a> </div> About Me
 <img align="right" src="./assests/readmenbsb.png" width="400"/>
@@ -47,6 +47,21 @@ Always open to collaboration and excited to contribute to innovative projects!
 
 ---
 
+###### Some software and languages that I've been working with over time
+![cura](https://custom-icon-badges.demolab.com/badge/-cura-green.svg?style=for-the-badge&logo=cura&logoColor=white)
+![sketchup](https://custom-icon-badges.demolab.com/badge/-sketchup-green.svg?style=for-the-badge&logo=sketchup&logoColor=white)
+![canva](https://custom-icon-badges.demolab.com/badge/-canva-green.svg?style=for-the-badge&logo=canva&logoColor=white)
+![markdown](https://custom-icon-badges.demolab.com/badge/-markdown-green.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![bubble](https://custom-icon-badges.demolab.com/badge/-bubble.io-green.svg?style=for-the-badge&logo=bubbleoffice&logoColor=white)
+![xano](https://custom-icon-badges.demolab.com/badge/-xano-greenyellow.svg?style=for-the-badge&logo=xano&logoColor=white)
+![airtable](https://custom-icon-badges.demolab.com/badge/-airtable-greenyellow.svg?style=for-the-badge&logo=airtable&logoColor=white)<br/>
+![mysql](https://custom-icon-badges.demolab.com/badge/-mysql-yellow.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![php](https://custom-icon-badges.demolab.com/badge/-php-yellow.svg?style=for-the-badge&logo=php&logoColor=white)
+![html](https://custom-icon-badges.demolab.com/badge/-html-yellow.svg?style=for-the-badge&logo=html&logoColor=white)
+![javascript](https://custom-icon-badges.demolab.com/badge/-javascript-orange.svg?style=for-the-badge&logo=javascript&logoColor=white)
+![css](https://custom-icon-badges.demolab.com/badge/-css-orange.svg?style=for-the-badge&logo=css&logoColor=white)
+![salesforce](https://custom-icon-badges.demolab.com/badge/-salesforce-orangered.svg?style=for-the-badge&logo=salesforce&logoColor=white)
+###### From green to red according to experience
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=AdaoG0n&theme=oldie&frame=false)](https://github.com/AdaoG0n/github-profile-trophy) -->
 
