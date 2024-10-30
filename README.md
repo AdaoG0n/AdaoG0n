@@ -17,15 +17,38 @@ Always open to collaboration and excited to contribute to innovative projects!
 <div align="center">
 
 ---
-<p align="center">
+###### Currently learning
+<!-- <p align="center">
   <a href="#" style="pointer-events: none;">
-    <img src="https://skillicons.dev/icons?i=c,powershell,vim,neovim,ubuntu,windows,git,github" />
+    <img src="https://skillicons.dev/icons?i=c,powershell,vim,neovim,ubuntu,git,github,markdown" />
   </a>
-</p> 
+</p> -->
+<div align="center">
+	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" alt="Ubuntu" title="Ubuntu"/></code>
+	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" alt="C" title="C"/></code>
+	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/192158606-7c2ef6bd-6e04-47cf-b5bc-da2797cb5bda.png" alt="bash" title="bash"/></code>
+	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/192108889-232b3431-a585-4b36-a62d-9078bd3641d9.png" alt="Vim" title="Vim"/></code>
+	<code><img width="40" src="https://github-production-user-asset-6210df.s3.amazonaws.com/136815194/258326081-b113a23c-5c04-45aa-819c-bd04e8ac2a37.png" alt="Neovim" title="Neovim"/></code>
+	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code"/></code>
+	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/></code>
+	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub"/></code>
+</div>
+
+---
+###### As a technician at Worten Resolve, I work with
+<div align="center">
+	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/117269608-b7dcfb80-ae58-11eb-8e66-6cc8753553f0.png" alt="Android" title="Android"/></code>
+	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/121406611-a8246b80-c95e-11eb-9b11-b771486377f6.png" alt="iOS" title="iOS"/></code>
+	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" alt="Windows" title="Windows"/></code>
+	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/186884152-ae609cca-8cf1-4175-8d60-1ce1fa078ca2.png" alt="macOS" title="macOS"/></code>
+	<code><img width="40" src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa" alt="Linux" title="Linux"/></code>
+	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" alt="Ubuntu" title="Ubuntu"/></code>
+</div>
+
+---
 
 
-
-
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=AdaoG0n&theme=oldie&frame=false)](https://github.com/AdaoG0n/github-profile-trophy) -->
 
 ---
  
@@ -38,3 +61,4 @@ Always open to collaboration and excited to contribute to innovative projects!
  ![](https://visitcount.itsvg.in/api?id=AdaoG0n&label=Profile%20Views&color=12&icon=3&pretty=true)
 </div>
 </div>
+
