@@ -48,6 +48,8 @@ Always open to collaboration and excited to contribute to innovative projects!
 ---
 
 ###### Some software and languages that I've been working with over time
+![Office](https://custom-icon-badges.demolab.com/badge/-MS_Office-green.svg?style=for-the-badge&logo=office&logoColor=white)
+![Office](https://custom-icon-badges.demolab.com/badge/-OpenOffice-green.svg?style=for-the-badge&logo=apacheopenoffice&logoColor=white)
 ![cura](https://custom-icon-badges.demolab.com/badge/-cura-green.svg?style=for-the-badge&logo=cura&logoColor=white)
 ![sketchup](https://custom-icon-badges.demolab.com/badge/-sketchup-green.svg?style=for-the-badge&logo=sketchup&logoColor=white)
 ![canva](https://custom-icon-badges.demolab.com/badge/-canva-green.svg?style=for-the-badge&logo=canva&logoColor=white)
