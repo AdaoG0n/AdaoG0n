@@ -86,8 +86,6 @@ Always open to collaboration and excited to contribute to innovative projects!
 [![trophy](https://github-profile-trophy.vercel.app/?username=AdaoG0n&theme=oldie&frame=false)](https://github.com/AdaoG0n/github-profile-trophy)
 
 </details>
-
----
 <details>
 <summary>
 	
@@ -104,7 +102,9 @@ Always open to collaboration and excited to contribute to innovative projects!
 [Get_next_line](https://github.com/AdaoG0n/42-get_next_line) | 
 
 </details>
-<details>
+
+---
+<details open>
 <summary>
 
 ###### Git stats </summary>
@@ -113,6 +113,8 @@ Always open to collaboration and excited to contribute to innovative projects!
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AdaoG0n&theme=transparent) 
 
 </details>
+
+---
 <div align="center">
   
  ![](https://visitcount.itsvg.in/api?id=AdaoG0n&label=Profile%20Views&color=12&icon=3&pretty=true)
