@@ -3,7 +3,13 @@
  
   
 # <div align="right">[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/adao__goncalves) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ad%C3%A3o-gon%C3%A7alves-639b05331?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app&original_referer=) ![Wortenresolve](https://custom-icon-badges.demolab.com/badge/-wortenresolve-darkblue.svg?style=flat-square&logo=wor&logoColor=white) <a href='https://profile.intra.42.fr/users/adamarqu' target="_blank"><img alt='42' src='https://img.shields.io/badge/Porto-100000?style=flat-square&logo=42&logoColor=white&labelColor=000000&color=000000'/></a> </div> $> Hello world!
-<img align="right" src="./assests/adaog0n.png" width="400"/>
+
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="./assests/readmenbsb.png" width="400">
+ <source media="(prefers-color-scheme: light)" srcset="./assests/adaog0n.png" width="400">
+ <img align="right" alt="" src="./assests/adaog0n.png" width="400">
+</picture>
+
 Tech enthusiast and problem-solver with a passion for learning. 
 <br/>
 
@@ -71,14 +77,42 @@ Always open to collaboration and excited to contribute to innovative projects!
 ![salesforce](https://custom-icon-badges.demolab.com/badge/-salesforce-orangered.svg?style=for-the-badge&logo=salesforce&logoColor=white)
 ###### From green to red according to experience
 
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=AdaoG0n&theme=oldie&frame=false)](https://github.com/AdaoG0n/github-profile-trophy) -->
+---
+<details>
+<summary>
+
+###### Trophy Room</summary>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=AdaoG0n&theme=oldie&frame=false)](https://github.com/AdaoG0n/github-profile-trophy)
+
+</details>
 
 ---
- 
+<details>
+<summary>
+	
+###### Repositories</summary>
+ | [Training Programs C](https://github.com/AdaoG0n/Training_programs_C) | 
+
+---
+###### 42 School
+ | [Piscine](https://github.com/AdaoG0n/42_Piscine) | 
+[Piscine Reload](https://github.com/AdaoG0n/42_Piscine_Reload) | 
+[libft](https://github.com/AdaoG0n/42_libft) | 
+[Born2beroot](https://github.com/AdaoG0n/42_Born2beroot) | 
+[FT_printf](https://github.com/AdaoG0n/42-FT_printf) | 
+[Get_next_line](https://github.com/AdaoG0n/42-get_next_line) | 
+
+</details>
+<details>
+<summary>
+
+###### Git stats </summary>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdaoG0n&theme=transparent) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AdaoG0n&theme=transparent&utcOffset=8) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AdaoG0n&theme=transparent) 
 
+</details>
 <div align="center">
   
  ![](https://visitcount.itsvg.in/api?id=AdaoG0n&label=Profile%20Views&color=12&icon=3&pretty=true)
