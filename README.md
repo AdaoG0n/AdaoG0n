@@ -43,7 +43,7 @@ Always open to collaboration and excited to contribute to innovative projects!
 	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub"/></code>
 </div>
 
----
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=40&letterSpacing=0px&duration=1000&pause=4000&center=true&vCenter=true&width=435&lines=___________________________________________________________________________________________________________________)
 ###### As a technician at Worten Resolve, I work with
 <div align="center">
 	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/117269608-b7dcfb80-ae58-11eb-8e66-6cc8753553f0.png" alt="Android" title="Android"/></code>
@@ -102,7 +102,7 @@ Always open to collaboration and excited to contribute to innovative projects!
 
 </details>
 
----
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=40&letterSpacing=0px&duration=1000&pause=4000&center=true&vCenter=true&width=435&lines=___________________________________________________________________________________________________________________)
 <details open>
 <summary>
 
