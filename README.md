@@ -3,6 +3,7 @@
  
   
 # <div align="right">[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/adao__goncalves) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ad%C3%A3o-gon%C3%A7alves-639b05331?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app&original_referer=) ![Wortenresolve](https://custom-icon-badges.demolab.com/badge/-wortenresolve-darkblue.svg?style=flat-square&logo=wor&logoColor=white) <a href='https://profile.intra.42.fr/users/adamarqu' target="_blank"><img alt='42' src='https://img.shields.io/badge/Porto-100000?style=flat-square&logo=42&logoColor=white&labelColor=000000&color=000000'/></a> </div> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&weight=100&size=30&letterSpacing=&duration=500&pause=5000&color=12BAB9&vCenter=true&width=435&lines=%24%3E+Hello%2C+World!)](https://git.io/typing-svg)
+
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="./assests/readmenbsb.png" width="400">
  <source media="(prefers-color-scheme: light)" srcset="./assests/adaog0n.png" width="400">
@@ -11,7 +12,6 @@
 
 Tech enthusiast and problem-solver with a passion for learning. 
 <br/>
-
 <!--![b](https://custom-icon-badges.demolab.com/badge/--cyan.svg?style=for-the-badge&logoColor=white) -->
 
 I'm a 34-year-old electronics repair technician at Worten Resolve, specializing in a wide range of devices from smartphones to home appliances.
@@ -25,7 +25,7 @@ Always open to collaboration and excited to contribute to innovative projects!
 </div>
 <div align="center">
 
----
+![](https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/bar.png)
 ###### Currently learning
 <!-- <p align="center">
   <a href="#" style="pointer-events: none;">
@@ -43,7 +43,7 @@ Always open to collaboration and excited to contribute to innovative projects!
 	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub"/></code>
 </div>
 
----
+![](https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/bar.png)
 ###### As a technician at Worten Resolve, I work with
 <div align="center">
 	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/117269608-b7dcfb80-ae58-11eb-8e66-6cc8753553f0.png" alt="Android" title="Android"/></code>
@@ -54,7 +54,7 @@ Always open to collaboration and excited to contribute to innovative projects!
 	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" alt="Ubuntu" title="Ubuntu"/></code>
 </div>
 
----
+![](https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/bar.png)
 
 ###### Some software and languages that I've been working with over time
 ![Office](https://custom-icon-badges.demolab.com/badge/-MS_Office-green.svg?style=for-the-badge&logo=office&logoColor=white)
@@ -76,7 +76,7 @@ Always open to collaboration and excited to contribute to innovative projects!
 ![salesforce](https://custom-icon-badges.demolab.com/badge/-salesforce-orangered.svg?style=for-the-badge&logo=salesforce&logoColor=white)
 ###### From green to red according to experience
 
----
+![](https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/bar.png)
 <details>
 <summary>
 
@@ -91,7 +91,7 @@ Always open to collaboration and excited to contribute to innovative projects!
 ###### Repositories</summary>
  | [Training Programs C](https://github.com/AdaoG0n/Training_programs_C) | 
 
----
+![](https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/bar.png)
 ###### 42 School
  | [Piscine](https://github.com/AdaoG0n/42_Piscine) | 
 [Piscine Reload](https://github.com/AdaoG0n/42_Piscine_Reload) | 
@@ -102,7 +102,7 @@ Always open to collaboration and excited to contribute to innovative projects!
 
 </details>
 
----
+![](https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/bar.png)
 <details open>
 <summary>
 
