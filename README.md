@@ -102,7 +102,7 @@ Always open to collaboration and excited to contribute to innovative projects!
 
 </details>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=40&letterSpacing=0px&duration=1000&pause=4000&center=true&vCenter=true&width=435&lines=___________________________________________________________________________________________________________________)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=40&letterSpacing=0px&duration=1000&pause=4000&center=true&vCenter=true&width=835&lines=___________________________________________________________________________________________________________________)
 <details open>
 <summary>
 
