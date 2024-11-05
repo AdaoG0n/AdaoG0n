@@ -109,7 +109,6 @@ Always open to collaboration and excited to contribute to innovative projects!
 |--|--|--|--|
 </td> </tr> </table>
 
-![](https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/bar.png)
 ###### 42 School
 
 <table>
