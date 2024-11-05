@@ -90,9 +90,9 @@ Always open to collaboration and excited to contribute to innovative projects!
 	
 ###### Repositories</summary>
 
+![](https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/cline.png)
 <table>
 <tr>
-<th align="center"> &nbsp; <a href='https://profile.intra.42.fr/users/adamarqu' target="_blank"><img alt='42' src='https://img.shields.io/badge/Programs-100000?style=&logo=c&logoColor=white&labelColor=000000&color=000000'/></a></th>
 </tr>
 <tr>
 
@@ -101,9 +101,10 @@ Always open to collaboration and excited to contribute to innovative projects!
 | [Program C Overview](https://github.com/AdaoG0n/Training_programs_C) | [Simple Calculator](https://github.com/AdaoG0n/Training_programs_C/tree/main/Calculcadora_simples_C) | [Intchar](https://github.com/AdaoG0n/Training_programs_C/tree/main/Projeto_intchar) | [libft_learn](https://github.com/AdaoG0n/Training_programs_C/tree/main/libft_learn) |
 |--|--|--|--|
 </td> </tr> </table>
+
+![](https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/42line.png)
 <table>
 <tr>
-<th align="center"> &nbsp;  <a href='https://profile.intra.42.fr/users/adamarqu' target="_blank"><img alt='42' src='https://img.shields.io/badge/Porto-100000?style=&logo=42&logoColor=white&labelColor=000000&color=000000'/></a> </th>
 </tr>
 <tr>
 
