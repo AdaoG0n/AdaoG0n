@@ -156,3 +156,4 @@ Always open to collaboration and excited to contribute to innovative projects!
 </div>
 </div>
 
+![](https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/fundopagina.gif)
