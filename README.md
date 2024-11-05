@@ -91,29 +91,38 @@ Always open to collaboration and excited to contribute to innovative projects!
 ###### From green to red according to experience
 
 ![](https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/bar.png)
-<details>
-<summary>
 
-###### Trophy Room</summary>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=AdaoG0n&theme=oldie&frame=false)](https://github.com/AdaoG0n/github-profile-trophy)
-
-</details>
 <details>
 <summary>
 	
 ###### Repositories</summary>
- | [Training Programs C](https://github.com/AdaoG0n/Training_programs_C) | 
+
+<table>
+<tr>
+<th align="center"> &nbsp; Programs C</th>
+</tr>
+<tr>
+
+<td>
+	
+| [Program C Overview](https://github.com/AdaoG0n/Training_programs_C) | [Simple Calculator](https://github.com/AdaoG0n/Training_programs_C/tree/main/Calculcadora_simples_C) | [Intchar](https://github.com/AdaoG0n/Training_programs_C/tree/main/Projeto_intchar) | [libft_learn](https://github.com/AdaoG0n/Training_programs_C/tree/main/libft_learn) |
+|--|--|--|--|
+</td> </tr> </table>
 
 ![](https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/bar.png)
 ###### 42 School
- | [Piscine](https://github.com/AdaoG0n/42_Piscine) | 
-[Piscine Reload](https://github.com/AdaoG0n/42_Piscine_Reload) | 
-[libft](https://github.com/AdaoG0n/42_libft) | 
-[Born2beroot](https://github.com/AdaoG0n/42_Born2beroot) | 
-[FT_printf](https://github.com/AdaoG0n/42-FT_printf) | 
-[Get_next_line](https://github.com/AdaoG0n/42-get_next_line) | 
 
+<table>
+<tr>
+<th align="center"> &nbsp; 42 curriculum</th>
+</tr>
+<tr>
+
+<td>
+	
+ | [Piscine](https://github.com/AdaoG0n/42_Piscine) | [Piscine Reload](https://github.com/AdaoG0n/42_Piscine_Reload) | [libft](https://github.com/AdaoG0n/42_libft) |  [Born2beroot](https://github.com/AdaoG0n/42_Born2beroot) | [FT_printf](https://github.com/AdaoG0n/42-FT_printf) | [Get_next_line](https://github.com/AdaoG0n/42-get_next_line) |
+|--|--|--|--|--|--|
+</td> </tr> </table>
 </details>
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=40&letterSpacing=0px&duration=1000&pause=4000&center=true&vCenter=true&width=835&lines=___________________________________________________________________________________________________________________)
@@ -124,6 +133,14 @@ Always open to collaboration and excited to contribute to innovative projects!
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdaoG0n&theme=transparent) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AdaoG0n&theme=transparent&utcOffset=8) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AdaoG0n&theme=transparent) 
+
+</details>
+<details>
+<summary>
+
+###### Trophy Room</summary>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=AdaoG0n&theme=oldie&frame=false)](https://github.com/AdaoG0n/github-profile-trophy)
 
 </details>
 
