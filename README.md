@@ -123,6 +123,21 @@ Always open to collaboration and excited to contribute to innovative projects!
  | [Piscine](https://github.com/AdaoG0n/42_Piscine) | [Piscine Reload](https://github.com/AdaoG0n/42_Piscine_Reload) | [libft](https://github.com/AdaoG0n/42_libft) |  [Born2beroot](https://github.com/AdaoG0n/42_Born2beroot) | [FT_printf](https://github.com/AdaoG0n/42-FT_printf) | [Get_next_line](https://github.com/AdaoG0n/42-get_next_line) |
 |--|--|--|--|--|--|
 </td> </tr> </table>
+
+<details>
+<summary>Common Core status </summary>
+<div align="center">
+	
+| Project                                                         | Rank | Language                                                                       | Score                                                                          | Activity                                                                 |
+| ---                                                             | ---  | ---                                                                            | ---                                                                            | ---                                                                      |
+| <a href="https://github.com/AdaoG0n/42_libft">libft</a>         | 0    | <img src="https://img.shields.io/github/languages/top/AdaoG0n/42_libft" />     | <img src="https://img.shields.io/badge/100%20%2F%20100%20%E2%98%85-success" /> | <img src="https://img.shields.io/github/last-commit/AdaoG0n/42_libft" /> |
+| <a href="https://github.com/AdaoG0n/42-FT_printf">ft_printf</a> | 1    | <img src="https://img.shields.io/github/languages/top/AdaoG0n/42-FT_printf" /> | <img src="https://img.shields.io/badge/0%20%2F%20100%20%E2%98%85-success" /> | <img src="https://img.shields.io/github/last-commit/AdaoG0n/42-FT_printf" /> |
+| <a href="https://github.com/AdaoG0n/42-get_next_line">get_next_line</a> | 1    | <img src="https://img.shields.io/github/languages/top/AdaoG0n/42-get_next_line" /> | <img src="https://img.shields.io/badge/0%20%2F%20100%20%E2%98%85-success" /> | <img src="https://img.shields.io/github/last-commit/AdaoG0n/42-get_next_line" /> |
+| <a href="https://github.com/AdaoG0n/42_Born2beroot">Born2beRoot</a> | 1    | <img src="https://img.shields.io/github/languages/top/AdaoG0n/42_Born2beroot" /> | <img src="https://img.shields.io/badge/0%20%2F%20100%20%E2%98%85-success" /> | <img src="https://img.shields.io/github/last-commit/AdaoG0n/42_Born2beroot" /> |
+</div>
+</details>
+
+
 </details>
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=40&letterSpacing=0px&duration=1000&pause=4000&center=true&vCenter=true&width=835&lines=___________________________________________________________________________________________________________________)
