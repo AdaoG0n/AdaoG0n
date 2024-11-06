@@ -17,18 +17,7 @@ While I thrive in the fast-paced world of technology, I also value tranquility a
 Always open to collaboration and excited to contribute to innovative projects!
 </div>
 
-<details>
-<summary> 42 school Common Core status </summary>
-<div align="center">
-	
-| Project                                                         | Rank | Language                                                                       | Score                                                                          | Activity                                                                 |
-| ---                                                             | ---  | ---                                                                            | ---                                                                            | ---                                                                      |
-| <a href="https://github.com/AdaoG0n/42_libft">libft</a>         | 0    | <img src="https://img.shields.io/github/languages/top/AdaoG0n/42_libft" />     | <img src="https://img.shields.io/badge/100%20%2F%20100%20%E2%98%85-success" /> | <img src="https://img.shields.io/github/last-commit/AdaoG0n/42_libft" /> |
-| <a href="https://github.com/AdaoG0n/42-FT_printf">ft_printf</a> | 1    | <img src="https://img.shields.io/github/languages/top/AdaoG0n/42-FT_printf" /> | <img src="https://img.shields.io/badge/0%20%2F%20100%20%E2%98%85-success" /> | <img src="https://img.shields.io/github/last-commit/AdaoG0n/42-FT_printf" /> |
-| <a href="https://github.com/AdaoG0n/42-get_next_line">get_next_line</a> | 1    | <img src="https://img.shields.io/github/languages/top/AdaoG0n/42-get_next_line" /> | <img src="https://img.shields.io/badge/0%20%2F%20100%20%E2%98%85-success" /> | <img src="https://img.shields.io/github/last-commit/AdaoG0n/42-get_next_line" /> |
-| <a href="https://github.com/AdaoG0n/42_Born2beroot">Born2beRoot</a> | 1    | <img src="https://img.shields.io/github/languages/top/AdaoG0n/42_Born2beroot" /> | <img src="https://img.shields.io/badge/0%20%2F%20100%20%E2%98%85-success" /> | <img src="https://img.shields.io/github/last-commit/AdaoG0n/42_Born2beroot" /> |
-</div>
-</details>
+
 
 <div align="center">
 
