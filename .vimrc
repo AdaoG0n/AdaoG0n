@@ -17,6 +17,11 @@ Plugin 'vim-airline/vim-airline'
 Plugin 'vim-airline/vim-airline-themes'
 Plugin 'preservim/nerdcommenter'
 
+" Alternar para o modo normal do Vim a partir do terminal
+tnoremap <Esc> <C-\><C-n>
+
+
+
 " fim da chamada de plugins
 call vundle#end()            " required
 "filetype plugin indent on    " required
@@ -49,6 +54,9 @@ nnoremap <leader>n :NERDTreeFocus<CR>
 nnoremap <C-n> :NERDTree<CR>
 nnoremap <C-t> :NERDTreeToggle<CR>
 nnoremap <C-f> :NERDTreeFind<CR>
+" Ajusta a largura da NERDTree para 20 colunas
+let NERDTreeWinSize=20
+
 
 " Exit Vim if NERDTree is the only window remaining in the only tab.
 autocmd BufEnter * if tabpagenr('$') == 1 && winnr('$') == 1 && exists('b:NERDTree') && b:NERDTree.isTabTree() | quit | endif
@@ -86,4 +94,3 @@ let g:NERDTrimTrailingWhitespace = 1
 
 " Enable NERDCommenterToggle to check all selected lines is commented or not
 let g:NERDToggleCheckAllLines = 1
-
