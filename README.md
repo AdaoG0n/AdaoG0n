@@ -104,16 +104,33 @@ Always open to collaboration and excited to contribute to innovative projects!
 </td> </tr> </table>
 
 ![](https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/42line.png)
-<table>
-<tr>
-</tr>
-<tr>
 
-<td>
-	
- | [Piscine](https://github.com/AdaoG0n/42_Piscine) | [Piscine Reload](https://github.com/AdaoG0n/42_Piscine_Reload) | [libft](https://github.com/AdaoG0n/42_libft) |  [Born2beroot](https://github.com/AdaoG0n/42_Born2beroot) | [FT_printf](https://github.com/AdaoG0n/42-FT_printf) | [Get_next_line](https://github.com/AdaoG0n/42-get_next_line) |
-|--|--|--|--|--|--|
-</td> </tr> </table>
+<p float="left" align="center">
+  <a href="https://github.com/AdaoG0n/42_Piscine">
+    <img src="https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/imagens%20repositorios%20fixas/piscine1.png" width="320"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/AdaoG0n/42_Piscine_Reload">
+    <img src="https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/imagens%20repositorios%20fixas/piscinereload1.png" width="320"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/AdaoG0n/42_libft">
+    <img src="https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/imagens%20repositorios%20fixas/libft1.png" width="320"/>
+  </a>
+</p>
+<p float="left" align="center">
+  <a href="https://github.com/AdaoG0n/42_Born2beroot">
+    <img src="https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/imagens%20repositorios%20fixas/Born2beroot1.png" width="320"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/AdaoG0n/42-FT_printf">
+    <img src="https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/imagens%20repositorios%20fixas/ft_printf1.png" width="320"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/AdaoG0n/42-get_next_line">
+    <img src="https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/imagens%20repositorios%20fixas/getnext_line1.png" width="320"/>
+  </a>
+</p>
 
 <details>
 <summary>Common Core status </summary>
