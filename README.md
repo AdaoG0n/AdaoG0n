@@ -79,6 +79,18 @@ Always open to collaboration and excited to contribute to innovative projects!
 	
 ###### Repositories</summary>
 
+### Configurations
+<table>
+<tr>
+</tr>
+<tr>
+
+<td>
+	
+| [VIM (.vimrc)](https://github.com/AdaoG0n/AdaoG0n/blob/main/.vimrc.md) |
+|--|
+</td> </tr> </table>
+
 ![](https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/cline.png)
 <table>
 <tr>
