@@ -150,9 +150,9 @@ Always open to collaboration and excited to contribute to innovative projects!
 
 </details>
 
-![](https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/bar.png)
+![](https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/animated%20gifs/AdaoG0nbar.gif)
 <div align="center">
-  
+
  ![](https://visitcount.itsvg.in/api?id=AdaoG0n&label=Profile%20Views&color=12&icon=3&pretty=true)
 </div>
 </div>
