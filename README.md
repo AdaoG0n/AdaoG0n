@@ -80,55 +80,53 @@ Always open to collaboration and excited to contribute to innovative projects!
 ###### Repositories</summary>
 
 ![](https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/configbar.png)
-<table>
-<tr>
-</tr>
-<tr>
-
-<td>
-	
-| [VIM (.vimrc)](https://github.com/AdaoG0n/AdaoG0n/blob/main/.vimrc.md) |
-|--|
-</td> </tr> </table>
+<p float="left" align="center">
+  <a href="https://github.com/AdaoG0n/AdaoG0n/blob/main/.vimrc.md">
+    <img src="https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/imagens%20repositorios%20fixas/vimrc.png" width="265"/>
+  </a>
+</p>
 
 ![](https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/cline.png)
-<table>
-<tr>
-</tr>
-<tr>
-
-<td>
-	
-| [Program C Overview](https://github.com/AdaoG0n/Training_programs_C) | [Simple Calculator](https://github.com/AdaoG0n/Training_programs_C/tree/main/Calculcadora_simples_C) | [Intchar](https://github.com/AdaoG0n/Training_programs_C/tree/main/Projeto_intchar) | [libft_learn](https://github.com/AdaoG0n/Training_programs_C/tree/main/libft_learn) |
-|--|--|--|--|
-</td> </tr> </table>
+<p float="left" align="center">
+  <a href="https://github.com/AdaoG0n/Training_programs_C/tree/main/Calculcadora_simples_C">
+    <img src="https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/imagens%20repositorios%20fixas/simplecalculator.png" width="265"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/AdaoG0n/Training_programs_C/tree/main/Projeto_intchar">
+    <img src="https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/imagens%20repositorios%20fixas/intchar.png" width="265"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/AdaoG0n/Training_programs_C/tree/main/libft_learn">
+    <img src="https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/imagens%20repositorios%20fixas/libftlearn.png" width="265"/>
+  </a>
+</p>
 
 ![](https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/42line.png)
 
 <p float="left" align="center">
   <a href="https://github.com/AdaoG0n/42_Piscine">
-    <img src="https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/imagens%20repositorios%20fixas/piscine1.png" width="320"/>
+    <img src="https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/imagens%20repositorios%20fixas/piscine1.png" width="265"/>
   </a>
   &nbsp;
   <a href="https://github.com/AdaoG0n/42_Piscine_Reload">
-    <img src="https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/imagens%20repositorios%20fixas/piscinereload1.png" width="320"/>
+    <img src="https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/imagens%20repositorios%20fixas/piscinereload1.png" width="265"/>
   </a>
   &nbsp;
   <a href="https://github.com/AdaoG0n/42_libft">
-    <img src="https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/imagens%20repositorios%20fixas/libft1.png" width="320"/>
+    <img src="https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/imagens%20repositorios%20fixas/libft1.png" width="265"/>
   </a>
 </p>
 <p float="left" align="center">
   <a href="https://github.com/AdaoG0n/42_Born2beroot">
-    <img src="https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/imagens%20repositorios%20fixas/Born2beroot1.png" width="320"/>
+    <img src="https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/imagens%20repositorios%20fixas/Born2beroot1.png" width="265"/>
   </a>
   &nbsp;
   <a href="https://github.com/AdaoG0n/42-FT_printf">
-    <img src="https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/imagens%20repositorios%20fixas/ft_printf1.png" width="320"/>
+    <img src="https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/imagens%20repositorios%20fixas/ft_printf1.png" width="265"/>
   </a>
   &nbsp;
   <a href="https://github.com/AdaoG0n/42-get_next_line">
-    <img src="https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/imagens%20repositorios%20fixas/getnext_line1.png" width="320"/>
+    <img src="https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/imagens%20repositorios%20fixas/getnext_line1.png" width="265"/>
   </a>
 </p>
 
