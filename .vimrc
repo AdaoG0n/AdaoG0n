@@ -37,10 +37,10 @@ set smartcase
 set ignorecase
 set incsearch
 set autoindent
-set shiftwidth=2
+"set shiftwidth=4
 set smartindent
 set smarttab
-set softtabstop=2
+"set softtabstop=2
 set undolevels=1000
 set background=dark
 set backspace=indent,eol,start
@@ -94,3 +94,4 @@ let g:NERDTrimTrailingWhitespace = 1
 
 " Enable NERDCommenterToggle to check all selected lines is commented or not
 let g:NERDToggleCheckAllLines = 1
+
