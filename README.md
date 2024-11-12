@@ -79,7 +79,7 @@ Always open to collaboration and excited to contribute to innovative projects!
 	
 ###### Repositories</summary>
 
-### Configurations
+![](https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/configbar.png)
 <table>
 <tr>
 </tr>
