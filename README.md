@@ -29,14 +29,14 @@ Always open to collaboration and excited to contribute to innovative projects!
   </a>
 </p> -->
 <div align="center">
-	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" alt="Ubuntu" title="Ubuntu"/></code>
-	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" alt="C" title="C"/></code>
-	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/192158606-7c2ef6bd-6e04-47cf-b5bc-da2797cb5bda.png" alt="bash" title="bash"/></code>
-	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/192108889-232b3431-a585-4b36-a62d-9078bd3641d9.png" alt="Vim" title="Vim"/></code>
-	<code><img width="40" src="https://github-production-user-asset-6210df.s3.amazonaws.com/136815194/258326081-b113a23c-5c04-45aa-819c-bd04e8ac2a37.png" alt="Neovim" title="Neovim"/></code>
-	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code"/></code>
-	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/></code>
-	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub"/></code>
+	<img width="40" src="https://github.com/AdaoG0n/AdaoG0n/blob/main/skillicons/ubuntu.png"/>
+	<img width="40" src="https://github.com/AdaoG0n/AdaoG0n/blob/main/skillicons/c.png"/>
+	<img width="40" src="https://github.com/AdaoG0n/AdaoG0n/blob/main/skillicons/unixshell.png"/>
+	<img width="40" src="https://github.com/AdaoG0n/AdaoG0n/blob/main/skillicons/vim.png"/>
+	<img width="40" src="https://github.com/AdaoG0n/AdaoG0n/blob/main/skillicons/neovim.png"/>
+ 	<img width="40" src="https://github.com/AdaoG0n/AdaoG0n/blob/main/skillicons/vscode.png"/>
+  	<img width="40" src="https://github.com/AdaoG0n/AdaoG0n/blob/main/skillicons/git.png"/>
+  	 <img width="40" src="https://github.com/AdaoG0n/AdaoG0n/blob/main/skillicons/github.png"/>
 </div>
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=40&letterSpacing=0px&duration=1000&pause=4000&center=true&vCenter=true&width=435&lines=___________________________________________________________________________________________________________________)
