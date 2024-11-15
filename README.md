@@ -22,7 +22,7 @@ Always open to collaboration and excited to contribute to innovative projects!
 <div align="center">
 
 ![](https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/bar.png)
-###### Currently learning
+###### Currently Exploring and Learning Software Development Tools and Programming Languages.
 <!-- <p align="center">
   <a href="#" style="pointer-events: none;">
     <img src="https://skillicons.dev/icons?i=c,powershell,vim,neovim,ubuntu,git,github,markdown" />
