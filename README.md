@@ -59,7 +59,7 @@ Always open to collaboration and excited to contribute to innovative projects!
 
 </div>
 
-###### Experience with a Variety of Software Applications Over the Years, with Basic to Intermediate Knowledge.
+###### Experience with a Variety of Software Applications, with Basic to Intermediate Knowledge.
 <div align="center">
 
 <img width="50" src="https://github.com/AdaoG0n/AdaoG0n/blob/main/skillicons/openoffice.png"/>
