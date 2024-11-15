@@ -39,6 +39,7 @@ Always open to collaboration and excited to contribute to innovative projects!
   	<img width="50" src="https://github.com/AdaoG0n/AdaoG0n/blob/main/skillicons/github.png"/>
 	<img width="50" src="https://github.com/AdaoG0n/AdaoG0n/blob/main/skillicons/markdown.png"/>
 	<img width="50" src="https://github.com/AdaoG0n/AdaoG0n/blob/main/skillicons/virtualbox.png"/>
+	<img width="50" src="https://github.com/AdaoG0n/AdaoG0n/blob/main/skillicons/dotfiles.png"/>
 </div>
 
 ###### Advanced User of Various Software Applications with Proficiency in System Interfaces.
