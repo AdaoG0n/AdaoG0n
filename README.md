@@ -37,6 +37,8 @@ Always open to collaboration and excited to contribute to innovative projects!
  	<img width="50" src="https://github.com/AdaoG0n/AdaoG0n/blob/main/skillicons/vscode.png"/>
   	<img width="50" src="https://github.com/AdaoG0n/AdaoG0n/blob/main/skillicons/git.png"/>
   	<img width="50" src="https://github.com/AdaoG0n/AdaoG0n/blob/main/skillicons/github.png"/>
+	<img width="50" src="https://github.com/AdaoG0n/AdaoG0n/blob/main/skillicons/markdown.png"/>
+	<img width="50" src="https://github.com/AdaoG0n/AdaoG0n/blob/main/skillicons/virtualbox.png"/>
 </div>
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=40&letterSpacing=0px&duration=1000&pause=4000&center=true&vCenter=true&width=435&lines=___________________________________________________________________________________________________________________)
@@ -54,24 +56,25 @@ Always open to collaboration and excited to contribute to innovative projects!
 ![](https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/bar.png)
 
 ###### Some software and languages that I've been working with over time
-![Office](https://custom-icon-badges.demolab.com/badge/-MS_Office-green.svg?style=for-the-badge&logo=office&logoColor=white)
-![Office](https://custom-icon-badges.demolab.com/badge/-OpenOffice-green.svg?style=for-the-badge&logo=apacheopenoffice&logoColor=white)
-![cura](https://custom-icon-badges.demolab.com/badge/-cura-green.svg?style=for-the-badge&logo=cura&logoColor=white)
-![sketchup](https://custom-icon-badges.demolab.com/badge/-sketchup-green.svg?style=for-the-badge&logo=sketchup&logoColor=white)
-![canva](https://custom-icon-badges.demolab.com/badge/-canva-green.svg?style=for-the-badge&logo=canva&logoColor=white)
-![markdown](https://custom-icon-badges.demolab.com/badge/-markdown-green.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![bubble](https://custom-icon-badges.demolab.com/badge/-bubble.io-green.svg?style=for-the-badge&logo=bubbleoffice&logoColor=white)
-![xano](https://custom-icon-badges.demolab.com/badge/-xano-greenyellow.svg?style=for-the-badge&logo=xano&logoColor=white)
-![airtable](https://custom-icon-badges.demolab.com/badge/-airtable-greenyellow.svg?style=for-the-badge&logo=airtable&logoColor=white)
-![mysql](https://custom-icon-badges.demolab.com/badge/-mysql-yellow.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![php](https://custom-icon-badges.demolab.com/badge/-php-yellow.svg?style=for-the-badge&logo=php&logoColor=white)
-![html](https://custom-icon-badges.demolab.com/badge/-html-yellow.svg?style=for-the-badge&logo=html5&logoColor=white)
-![photoshop](https://custom-icon-badges.demolab.com/badge/-photoshop-yellow.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![javascript](https://custom-icon-badges.demolab.com/badge/-javascript-orange.svg?style=for-the-badge&logo=javascript&logoColor=white)
-![css](https://custom-icon-badges.demolab.com/badge/-css-orange.svg?style=for-the-badge&logo=css&logoColor=white)
-![lumion](https://custom-icon-badges.demolab.com/badge/-lumion-orange.svg?style=for-the-badge&logo=lumion&logoColor=white)
-![salesforce](https://custom-icon-badges.demolab.com/badge/-salesforce-orangered.svg?style=for-the-badge&logo=salesforce&logoColor=white)
-###### From green to red according to experience
+<div align="center">
+
+<img width="50" src="https://github.com/AdaoG0n/AdaoG0n/blob/main/skillicons/office.png"/>
+<img width="50" src="https://github.com/AdaoG0n/AdaoG0n/blob/main/skillicons/openoffice.png"/>
+<img width="50" src="https://github.com/AdaoG0n/AdaoG0n/blob/main/skillicons/cura.png"/>
+<img width="50" src="https://github.com/AdaoG0n/AdaoG0n/blob/main/skillicons/sketchup.png"/>
+<img width="50" src="https://github.com/AdaoG0n/AdaoG0n/blob/main/skillicons/lumion.png"/>
+<img width="50" src="https://github.com/AdaoG0n/AdaoG0n/blob/main/skillicons/canva.png"/>
+<img width="50" src="https://github.com/AdaoG0n/AdaoG0n/blob/main/skillicons/photoshop.png"/>
+<img width="50" src="https://github.com/AdaoG0n/AdaoG0n/blob/main/skillicons/bubble.png"/>
+<img width="50" src="https://github.com/AdaoG0n/AdaoG0n/blob/main/skillicons/xano.png"/>
+<img width="50" src="https://github.com/AdaoG0n/AdaoG0n/blob/main/skillicons/airtable.png"/>
+<img width="50" src="https://github.com/AdaoG0n/AdaoG0n/blob/main/skillicons/mysql.png"/>
+<img width="50" src="https://github.com/AdaoG0n/AdaoG0n/blob/main/skillicons/php.png"/>
+<img width="50" src="https://github.com/AdaoG0n/AdaoG0n/blob/main/skillicons/html.png"/>
+<img width="50" src="https://github.com/AdaoG0n/AdaoG0n/blob/main/skillicons/css.png"/>
+<img width="50" src="https://github.com/AdaoG0n/AdaoG0n/blob/main/skillicons/javascript.png"/>
+<img width="50" src="https://github.com/AdaoG0n/AdaoG0n/blob/main/skillicons/salesforce.png"/>
+</div>
 
 ![](https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/bar.png)
 
