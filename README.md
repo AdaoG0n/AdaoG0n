@@ -31,7 +31,6 @@ Always open to collaboration and excited to contribute to innovative projects!
 <div align="center">
 <img width="50" src="https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/animated%20gifs/aright.gif"/>
 <img width="50" src="https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/animated%20gifs/asquare.gif"/>
-<img width="50" src="https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/animated%20gifs/asquare.gif"/>
 	<img width="50" src="https://github.com/AdaoG0n/AdaoG0n/blob/main/skillicons/ubuntu.png"/>
 	<img width="50" src="https://github.com/AdaoG0n/AdaoG0n/blob/main/skillicons/c.png"/>
 	<img width="50" src="https://github.com/AdaoG0n/AdaoG0n/blob/main/skillicons/unixshell.png"/>
@@ -44,14 +43,12 @@ Always open to collaboration and excited to contribute to innovative projects!
 	<img width="50" src="https://github.com/AdaoG0n/AdaoG0n/blob/main/skillicons/virtualbox.png"/>
 	<img width="50" src="https://github.com/AdaoG0n/AdaoG0n/blob/main/skillicons/dotfiles.png"/>
 <img width="50" src="https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/animated%20gifs/asquare.gif"/>
-<img width="50" src="https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/animated%20gifs/asquare.gif"/>
 <img width="50" src="https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/animated%20gifs/aleft.gif"/>
 </div>
 
 ###### Advanced User of Various Software Applications with Proficiency in System Interfaces.
 <div align="center">
 <img width="50" src="https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/animated%20gifs/aright.gif"/>
-<img width="50" src="https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/animated%20gifs/asquare.gif"/>
 <img width="50" src="https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/animated%20gifs/asquare.gif"/>
 <img width="50" src="https://github.com/AdaoG0n/AdaoG0n/blob/main/skillicons/android.png"/>
 <img width="50" src="https://github.com/AdaoG0n/AdaoG0n/blob/main/skillicons/ios.png"/>
@@ -65,7 +62,6 @@ Always open to collaboration and excited to contribute to innovative projects!
 <img width="50" src="https://github.com/AdaoG0n/AdaoG0n/blob/main/skillicons/cura.png"/>
 <img width="50" src="https://github.com/AdaoG0n/AdaoG0n/blob/main/skillicons/canva.png"/>
 <img width="50" src="https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/animated%20gifs/asquare.gif"/>
-<img width="50" src="https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/animated%20gifs/asquare.gif"/>
 <img width="50" src="https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/animated%20gifs/aleft.gif"/>
 
 </div>
@@ -73,7 +69,6 @@ Always open to collaboration and excited to contribute to innovative projects!
 ###### Experience with a Variety of Software Applications, with Basic to Intermediate Knowledge.
 <div align="center">
 <img width="50" src="https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/animated%20gifs/aright.gif"/>
-<img width="50" src="https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/animated%20gifs/asquare.gif"/>
 <img width="50" src="https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/animated%20gifs/asquare.gif"/>
 <img width="50" src="https://github.com/AdaoG0n/AdaoG0n/blob/main/skillicons/openoffice.png"/>
 <img width="50" src="https://github.com/AdaoG0n/AdaoG0n/blob/main/skillicons/lumion.png"/>
@@ -86,7 +81,6 @@ Always open to collaboration and excited to contribute to innovative projects!
 <img width="50" src="https://github.com/AdaoG0n/AdaoG0n/blob/main/skillicons/css.png"/>
 <img width="50" src="https://github.com/AdaoG0n/AdaoG0n/blob/main/skillicons/javascript.png"/>
 <img width="50" src="https://github.com/AdaoG0n/AdaoG0n/blob/main/skillicons/salesforce.png"/>
-<img width="50" src="https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/animated%20gifs/asquare.gif"/>
 <img width="50" src="https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/animated%20gifs/asquare.gif"/>
 <img width="50" src="https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/animated%20gifs/aleft.gif"/>
 </div>
