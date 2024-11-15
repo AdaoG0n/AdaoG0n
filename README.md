@@ -41,8 +41,7 @@ Always open to collaboration and excited to contribute to innovative projects!
 	<img width="50" src="https://github.com/AdaoG0n/AdaoG0n/blob/main/skillicons/virtualbox.png"/>
 </div>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=40&letterSpacing=0px&duration=1000&pause=4000&center=true&vCenter=true&width=435&lines=___________________________________________________________________________________________________________________)
-###### As a technician, I work with
+###### Advanced User of Various Software Applications with Proficiency in System Interfaces.
 <div align="center">
 
 <img width="50" src="https://github.com/AdaoG0n/AdaoG0n/blob/main/skillicons/android.png"/>
@@ -51,21 +50,20 @@ Always open to collaboration and excited to contribute to innovative projects!
 <img width="50" src="https://github.com/AdaoG0n/AdaoG0n/blob/main/skillicons/windows.png"/>
 <img width="50" src="https://github.com/AdaoG0n/AdaoG0n/blob/main/skillicons/linux.png"/>
 <img width="50" src="https://github.com/AdaoG0n/AdaoG0n/blob/main/skillicons/ubuntu.png"/>
+<img width="50" src="https://github.com/AdaoG0n/AdaoG0n/blob/main/skillicons/office.png"/>
+<img width="50" src="https://github.com/AdaoG0n/AdaoG0n/blob/main/skillicons/sketchup.png"/>
+<img width="50" src="https://github.com/AdaoG0n/AdaoG0n/blob/main/skillicons/bubble.png"/>
+<img width="50" src="https://github.com/AdaoG0n/AdaoG0n/blob/main/skillicons/cura.png"/>
+<img width="50" src="https://github.com/AdaoG0n/AdaoG0n/blob/main/skillicons/canva.png"/>
+
 </div>
 
-![](https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/bar.png)
-
-###### Some software and languages that I've been working with over time
+###### Experience with a Variety of Software Applications Over the Years, with Basic to Intermediate Knowledge.
 <div align="center">
 
-<img width="50" src="https://github.com/AdaoG0n/AdaoG0n/blob/main/skillicons/office.png"/>
 <img width="50" src="https://github.com/AdaoG0n/AdaoG0n/blob/main/skillicons/openoffice.png"/>
-<img width="50" src="https://github.com/AdaoG0n/AdaoG0n/blob/main/skillicons/cura.png"/>
-<img width="50" src="https://github.com/AdaoG0n/AdaoG0n/blob/main/skillicons/sketchup.png"/>
 <img width="50" src="https://github.com/AdaoG0n/AdaoG0n/blob/main/skillicons/lumion.png"/>
-<img width="50" src="https://github.com/AdaoG0n/AdaoG0n/blob/main/skillicons/canva.png"/>
 <img width="50" src="https://github.com/AdaoG0n/AdaoG0n/blob/main/skillicons/photoshop.png"/>
-<img width="50" src="https://github.com/AdaoG0n/AdaoG0n/blob/main/skillicons/bubble.png"/>
 <img width="50" src="https://github.com/AdaoG0n/AdaoG0n/blob/main/skillicons/xano.png"/>
 <img width="50" src="https://github.com/AdaoG0n/AdaoG0n/blob/main/skillicons/airtable.png"/>
 <img width="50" src="https://github.com/AdaoG0n/AdaoG0n/blob/main/skillicons/mysql.png"/>
