@@ -170,10 +170,11 @@ Always open to collaboration and excited to contribute to innovative projects!
 </details>
 
 ![](https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/animated%20gifs/AdaoG0nbar.gif)
+
+![](https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/fundopagina.gif)
+
 <div align="center">
 
  ![](https://visitcount.itsvg.in/api?id=AdaoG0n&label=Profile%20Views&color=1&icon=3&pretty=true)
 </div>
 </div>
-
-![](https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/fundopagina.gif)
