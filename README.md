@@ -42,12 +42,13 @@ Always open to collaboration and excited to contribute to innovative projects!
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=40&letterSpacing=0px&duration=1000&pause=4000&center=true&vCenter=true&width=435&lines=___________________________________________________________________________________________________________________)
 ###### As a technician at Worten Resolve, I work with
 <div align="center">
-	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/117269608-b7dcfb80-ae58-11eb-8e66-6cc8753553f0.png" alt="Android" title="Android"/></code>
-	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/121406611-a8246b80-c95e-11eb-9b11-b771486377f6.png" alt="iOS" title="iOS"/></code>
-	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" alt="Windows" title="Windows"/></code>
-	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/186884152-ae609cca-8cf1-4175-8d60-1ce1fa078ca2.png" alt="macOS" title="macOS"/></code>
-	<code><img width="40" src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa" alt="Linux" title="Linux"/></code>
-	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" alt="Ubuntu" title="Ubuntu"/></code>
+
+ <img width="40" src="https://github.com/AdaoG0n/AdaoG0n/blob/main/skillicons/android.png"/>
+<img width="40" src="https://github.com/AdaoG0n/AdaoG0n/blob/main/skillicons/ios.png"/>
+<img width="40" src="https://github.com/AdaoG0n/AdaoG0n/blob/main/skillicons/apple.png"/>
+<img width="40" src="https://github.com/AdaoG0n/AdaoG0n/blob/main/skillicons/windows.png"/>
+<img width="40" src="https://github.com/AdaoG0n/AdaoG0n/blob/main/skillicons/linux.png"/>
+<img width="40" src="https://github.com/AdaoG0n/AdaoG0n/blob/main/skillicons/ubuntu.png"/>
 </div>
 
 ![](https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/bar.png)
