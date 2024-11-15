@@ -29,26 +29,26 @@ Always open to collaboration and excited to contribute to innovative projects!
   </a>
 </p> -->
 <div align="center">
-	<img width="40" src="https://github.com/AdaoG0n/AdaoG0n/blob/main/skillicons/ubuntu.png"/>
-	<img width="40" src="https://github.com/AdaoG0n/AdaoG0n/blob/main/skillicons/c.png"/>
-	<img width="40" src="https://github.com/AdaoG0n/AdaoG0n/blob/main/skillicons/unixshell.png"/>
-	<img width="40" src="https://github.com/AdaoG0n/AdaoG0n/blob/main/skillicons/vim.png"/>
-	<img width="40" src="https://github.com/AdaoG0n/AdaoG0n/blob/main/skillicons/neovim.png"/>
- 	<img width="40" src="https://github.com/AdaoG0n/AdaoG0n/blob/main/skillicons/vscode.png"/>
-  	<img width="40" src="https://github.com/AdaoG0n/AdaoG0n/blob/main/skillicons/git.png"/>
-  	 <img width="40" src="https://github.com/AdaoG0n/AdaoG0n/blob/main/skillicons/github.png"/>
+	<img width="50" src="https://github.com/AdaoG0n/AdaoG0n/blob/main/skillicons/ubuntu.png"/>
+	<img width="50" src="https://github.com/AdaoG0n/AdaoG0n/blob/main/skillicons/c.png"/>
+	<img width="50" src="https://github.com/AdaoG0n/AdaoG0n/blob/main/skillicons/unixshell.png"/>
+	<img width="50" src="https://github.com/AdaoG0n/AdaoG0n/blob/main/skillicons/vim.png"/>
+	<img width="50" src="https://github.com/AdaoG0n/AdaoG0n/blob/main/skillicons/neovim.png"/>
+ 	<img width="50" src="https://github.com/AdaoG0n/AdaoG0n/blob/main/skillicons/vscode.png"/>
+  	<img width="50" src="https://github.com/AdaoG0n/AdaoG0n/blob/main/skillicons/git.png"/>
+  	<img width="50" src="https://github.com/AdaoG0n/AdaoG0n/blob/main/skillicons/github.png"/>
 </div>
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=40&letterSpacing=0px&duration=1000&pause=4000&center=true&vCenter=true&width=435&lines=___________________________________________________________________________________________________________________)
-###### As a technician at Worten Resolve, I work with
+###### As a technician, I work with
 <div align="center">
 
- <img width="40" src="https://github.com/AdaoG0n/AdaoG0n/blob/main/skillicons/android.png"/>
-<img width="40" src="https://github.com/AdaoG0n/AdaoG0n/blob/main/skillicons/ios.png"/>
-<img width="40" src="https://github.com/AdaoG0n/AdaoG0n/blob/main/skillicons/apple.png"/>
-<img width="40" src="https://github.com/AdaoG0n/AdaoG0n/blob/main/skillicons/windows.png"/>
-<img width="40" src="https://github.com/AdaoG0n/AdaoG0n/blob/main/skillicons/linux.png"/>
-<img width="40" src="https://github.com/AdaoG0n/AdaoG0n/blob/main/skillicons/ubuntu.png"/>
+<img width="50" src="https://github.com/AdaoG0n/AdaoG0n/blob/main/skillicons/android.png"/>
+<img width="50" src="https://github.com/AdaoG0n/AdaoG0n/blob/main/skillicons/ios.png"/>
+<img width="50" src="https://github.com/AdaoG0n/AdaoG0n/blob/main/skillicons/apple.png"/>
+<img width="50" src="https://github.com/AdaoG0n/AdaoG0n/blob/main/skillicons/windows.png"/>
+<img width="50" src="https://github.com/AdaoG0n/AdaoG0n/blob/main/skillicons/linux.png"/>
+<img width="50" src="https://github.com/AdaoG0n/AdaoG0n/blob/main/skillicons/ubuntu.png"/>
 </div>
 
 ![](https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/bar.png)
