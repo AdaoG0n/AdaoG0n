@@ -111,30 +111,6 @@ Always open to collaboration and excited to contribute to innovative projects!
   </a>
 </p>
 
-![](https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/configbar.png)
-<p float="left" align="center">
-  <a href="https://github.com/AdaoG0n/AdaoG0n/blob/main/.vimrc.md">
-    <img src="https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/imagens%20repositorios%20fixas/vimrc.png" width="200"/>
-  </a>
-</p>
-
-![](https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/cline.png)
-<p float="left" align="center">
-  <a href="https://github.com/AdaoG0n/Training_programs_C/tree/main/Calculcadora_simples_C">
-    <img src="https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/imagens%20repositorios%20fixas/simplecalculator.png" width="200"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/AdaoG0n/Training_programs_C/tree/main/Projeto_intchar">
-    <img src="https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/imagens%20repositorios%20fixas/intchar.png" width="200"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/AdaoG0n/Training_programs_C/tree/main/libft_learn">
-    <img src="https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/imagens%20repositorios%20fixas/libftlearn.png" width="200"/>
-  </a>
-</p>
-
-
-
 <details>
 <summary>Common Core status </summary>
 <div align="center">
@@ -148,6 +124,26 @@ Always open to collaboration and excited to contribute to innovative projects!
 </div>
 </details>
 
+
+
+![](https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/bar.png)
+<p float="left" align="center">
+  <a href="https://github.com/AdaoG0n/Training_programs_C/tree/main/Calculcadora_simples_C">
+    <img src="https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/imagens%20repositorios%20fixas/simplecalculator2.png" width="200"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/AdaoG0n/Training_programs_C/tree/main/Projeto_intchar">
+    <img src="https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/imagens%20repositorios%20fixas/intchar2.png" width="200"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/AdaoG0n/Training_programs_C/tree/main/libft_learn">
+    <img src="https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/imagens%20repositorios%20fixas/libftlearn2.png" width="200"/>
+  </a>
+&nbsp;  
+  <a href="https://github.com/AdaoG0n/AdaoG0n/blob/main/.vimrc.md">
+    <img src="https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/imagens%20repositorios%20fixas/vimrc2.png" width="200"/>
+  </a>
+</p>
 
 </details>
 
