@@ -2,19 +2,25 @@
 	
 # <div align="right">[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/adao__goncalves) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ad%C3%A3o-gon%C3%A7alves-639b05331?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app&original_referer=) ![Wortenresolve](https://custom-icon-badges.demolab.com/badge/-wortenresolve-darkblue.svg?style=flat-square&logo=wor&logoColor=white) <a href='https://profile.intra.42.fr/users/adamarqu' target="_blank"><img alt='42' src='https://img.shields.io/badge/Porto-100000?style=flat-square&logo=42&logoColor=white&labelColor=000000&color=000000'/></a> </div> <a href="#" style="pointer-events: none;"> ![](https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/build%20the%20future.gif)</a> <a href="#" style="pointer-events: none;"> ![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&weight=100&size=30&letterSpacing=&duration=500&pause=5000&color=12BAB9&vCenter=true&width=435&lines=%24%3E+Hello%2C+World!)</a>
 
-
-Tech enthusiast and problem-solver with a passion for learning. 
 <br/>
 <!--![b](https://custom-icon-badges.demolab.com/badge/--cyan.svg?style=for-the-badge&logoColor=white) -->
 
-I'm a 34-year-old electronics repair technician at Worten Resolve, specialized in a wide range of devices from smartphones to home appliances.
+<img width="12" src="https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/animated%20gifs/aright.gif"/> I’m a 34-year-old electronics repair technician at `Worten Resolve`. </br>
+<img width="12" src="https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/animated%20gifs/aright.gif"/> I fix everything from smartphones to home appliances and love the challenge that comes with each device.
 
-My curiosity drives me to constantly explore new technologies and software. I enjoy hands-on work and am always eager to take on new challenges. Efficiency is important to me, and I've developed methods to manage time effectively.
+---
 
-While I thrive in the fast-paced world of technology, I also value tranquility and focus in my personal life. 
-<br/>I'm currently expanding my skills through programming projects at **42 school**, aiming to combine my practical experience with new software development knowledge.
+<img width="12" src="https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/animated%20gifs/aright.gif"/> Passion & Curiosity
+###### Tech is my thing. I’m always exploring new gadgets, tools, and software to learn something new every day.
 
-Always open to collaboration and excited to contribute to innovative projects!
+<img width="12" src="https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/animated%20gifs/aright.gif"/> Work Style
+###### Efficiency matters. I focus on making the most of my time and finding the best solutions fast.
+
+<img width="12" src="https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/animated%20gifs/aright.gif"/> Life Outside Work
+###### I enjoy a quiet and focused personal life, balancing my tech-driven work with some peace and calm.
+
+<img width="12" src="https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/animated%20gifs/aright.gif"/> What’s Next?
+###### I’m currently expanding my skills with programming at `42 School`, merging my hands-on experience with software development.
 </div>
 
 
