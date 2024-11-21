@@ -127,8 +127,8 @@
   </a>
 </p>
 
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=40&letterSpacing=0px&duration=1000&pause=4000&center=true&vCenter=true&width=835&lines=___________________________________________________________________________________________________________________)
 
-![](https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/bar.png)
 <p float="left" align="center">
   <a href="https://github.com/AdaoG0n/Training_programs_C/tree/main/Calculcadora_simples_C">
     <img src="https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/imagens%20repositorios%20fixas/simplecalculator2.png" width="200"/>
@@ -149,7 +149,7 @@
 
 </details>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=40&letterSpacing=0px&duration=1000&pause=4000&center=true&vCenter=true&width=835&lines=___________________________________________________________________________________________________________________)
+![](https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/bar.png)
 <details open>
 <summary>
 
