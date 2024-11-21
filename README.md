@@ -127,20 +127,6 @@
   </a>
 </p>
 
-<details>
-<summary>Common Core status </summary>
-<div align="center">
-	
-| Project                                                         | Rank | Language                                                                       | Score                                                                          | Activity                                                                 |
-| ---                                                             | ---  | ---                                                                            | ---                                                                            | ---                                                                      |
-| <a href="https://github.com/AdaoG0n/42_libft">libft</a>         | 0    | <img src="https://img.shields.io/github/languages/top/AdaoG0n/42_libft" />     | <img src="https://img.shields.io/badge/100%20%2F%20100%20%E2%98%85-success" /> | <img src="https://img.shields.io/github/last-commit/AdaoG0n/42_libft" /> |
-| <a href="https://github.com/AdaoG0n/42-FT_printf">ft_printf</a> | 1    | <img src="https://img.shields.io/github/languages/top/AdaoG0n/42-FT_printf" /> | <img src="https://img.shields.io/badge/100%20%2F%20100%20%E2%98%85-success" /> | <img src="https://img.shields.io/github/last-commit/AdaoG0n/42-FT_printf" /> |
-| <a href="https://github.com/AdaoG0n/42-get_next_line">get_next_line</a> | 1    | <img src="https://img.shields.io/github/languages/top/AdaoG0n/42-get_next_line" /> | <img src="https://img.shields.io/badge/0%20%2F%20100%20%E2%98%85-success" /> | <img src="https://img.shields.io/github/last-commit/AdaoG0n/42-get_next_line" /> |
-| <a href="https://github.com/AdaoG0n/42_Born2beroot">Born2beRoot</a> | 1    | <img src="https://img.shields.io/github/languages/top/AdaoG0n/42_Born2beroot" /> | <img src="https://img.shields.io/badge/100%20%2F%20100%20%E2%98%85-success" /> | <img src="https://img.shields.io/github/last-commit/AdaoG0n/42_Born2beroot" /> |
-</div>
-</details>
-
-
 
 ![](https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/bar.png)
 <p float="left" align="center">
