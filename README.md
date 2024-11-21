@@ -98,7 +98,7 @@
 	
 ###### Repositories</summary>
 
-![](https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/42line.png)
+[![](https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/42line.png)](https://github.com/AdaoG0n/42_School)
 
 <p float="left" align="center">
   <a href="https://github.com/AdaoG0n/42_Piscine">
