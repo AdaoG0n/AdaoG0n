@@ -101,6 +101,15 @@
 [![](https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/42line.png)](https://github.com/AdaoG0n/42_School)
 
 <p float="left" align="center">
+  <a href="https://github.com/AdaoG0n/42_school">
+    <img src="https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/imagens%20repositorios%20fixas/42_school.png" width="265"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/AdaoG0n/Grademe">
+    <img src="https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/imagens%20repositorios%20fixas/grademesolutions.png" width="265"/>
+  </a>
+</p>
+<p float="left" align="center">
   <a href="https://github.com/AdaoG0n/42_Piscine">
     <img src="https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/imagens%20repositorios%20fixas/piscine1.png" width="265"/>
   </a>
