@@ -179,7 +179,6 @@
 
 ![](https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/animated%20gifs/AdaoG0nbar.gif)
 
-![](https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/fundopagina.gif)
 
 <div align="center">
 
