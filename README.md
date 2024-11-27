@@ -159,7 +159,7 @@
 </details>
 
 ![](https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/bar.png)
-<details open>
+<details>
 <summary>
 
 ###### Git stats </summary>
