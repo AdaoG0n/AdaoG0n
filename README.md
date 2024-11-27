@@ -93,7 +93,7 @@
 
 ![](https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/bar.png)
 
-<details>
+<details open>
 <summary>
 	
 ###### Repositories</summary>
