@@ -105,7 +105,7 @@
     <img src="https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/imagens%20repositorios%20fixas/42_school.png" width="265"/>
   </a>
   &nbsp;
-  <a href="https://github.com/AdaoG0n/Grademe">
+  <a href="https://github.com/AdaoG0n/Grademe_solutions">
     <img src="https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/imagens%20repositorios%20fixas/grademesolutions.png" width="265"/>
   </a>
 </p>
