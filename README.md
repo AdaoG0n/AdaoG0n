@@ -108,12 +108,11 @@
   <a href="https://github.com/AdaoG0n/Grademe_solutions">
     <img src="https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/imagens%20repositorios%20fixas/grademesolutions.png" width="265"/>
   </a>
-</p>
-<p float="left" align="center">
   <a href="https://github.com/AdaoG0n/42_Piscine">
     <img src="https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/imagens%20repositorios%20fixas/piscine1.png" width="265"/>
   </a>
-  &nbsp;
+</p>
+<p float="left" align="center">
   <a href="https://github.com/AdaoG0n/42_Piscine_Reload">
     <img src="https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/imagens%20repositorios%20fixas/piscinereload1.png" width="265"/>
   </a>
@@ -121,18 +120,21 @@
   <a href="https://github.com/AdaoG0n/42_libft">
     <img src="https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/imagens%20repositorios%20fixas/libft1.png" width="265"/>
   </a>
-</p>
-<p float="left" align="center">
   <a href="https://github.com/AdaoG0n/42_Born2beroot">
     <img src="https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/imagens%20repositorios%20fixas/Born2beroot1.png" width="265"/>
   </a>
-  &nbsp;
+	</p>
+<p float="left" align="center">
   <a href="https://github.com/AdaoG0n/42-FT_printf">
     <img src="https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/imagens%20repositorios%20fixas/ft_printf1.png" width="265"/>
   </a>
   &nbsp;
   <a href="https://github.com/AdaoG0n/42-get_next_line">
     <img src="https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/imagens%20repositorios%20fixas/getnext_line1.png" width="265"/>
+  </a>
+	&nbsp;
+  <a href="https://github.com/AdaoG0n/minitalk">
+    <img src="https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/imagens%20repositorios%20fixas/Minitalk.png" width="265"/>
   </a>
 </p>
 
