@@ -144,8 +144,8 @@
     <img src="https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/imagens%20repositorios%20fixas/so_long.png" width="265"/>
   </a>
 &nbsp;
-  <a href="https://github.com/AdaoG0n/pushswap">
-    <img src="https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/imagens%20repositorios%20fixas/42_Push_swap" width="265"/>
+  <a href="https://github.com/AdaoG0n/42_Push_swap">
+    <img src="https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/imagens%20repositorios%20fixas/pushswap" width="265"/>
   </a>
 <!--&nbsp;
   <a href="https://github.com/AdaoG0n/minitalk">
