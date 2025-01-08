@@ -139,6 +139,19 @@
     <img src="https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/imagens%20repositorios%20fixas/Minitalk.png" width="265"/>
   </a>
 </p>
+<p float="left" align="center">
+  <a href="https://github.com/AdaoG0n/so_long">
+    <img src="https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/imagens%20repositorios%20fixas/so_long.png" width="265"/>
+  </a>
+&nbsp;
+  <a href="https://github.com/AdaoG0n/pushswap">
+    <img src="https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/imagens%20repositorios%20fixas/pushswap.png" width="265"/>
+  </a>
+<!--&nbsp;
+  <a href="https://github.com/AdaoG0n/minitalk">
+    <img src="https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/imagens%20repositorios%20fixas/Minitalk.png" width="265"/>
+  </a> -->
+</p>
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=40&letterSpacing=0px&duration=1000&pause=4000&center=true&vCenter=true&width=835&lines=___________________________________________________________________________________________________________________)
 
