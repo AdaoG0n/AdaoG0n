@@ -5,7 +5,7 @@
 <br/>
 <!--![b](https://custom-icon-badges.demolab.com/badge/--cyan.svg?style=for-the-badge&logoColor=white) -->
 
-<img width="12" src="https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/animated%20gifs/aright.gif"/> I’m a 34-year-old electronics repair technician at `Worten Resolve`. </br>
+<img width="12" src="https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/animated%20gifs/aright.gif"/> I’m a 35-year-old electronics repair technician at `Worten Resolve`. </br>
 <img width="12" src="https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/animated%20gifs/aright.gif"/> I fix everything from smartphones to home appliances and love the challenge that comes with each device.
 
 ---
